@@ -1,2 +1,14 @@
-
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    width: 500px;
+    height: 5px;
+  }
+  .data{
+    text-align:right;
+  }
+  th{
+    text-align: left;
+  }
 /* Your CSS Code here. */
