@@ -11,4 +11,7 @@ table, th, td {
   th{
     text-align: left;
   }
+  #head{
+    text-align: left;
+  }
 /* Your CSS Code here. */
